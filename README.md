@@ -1,5 +1,5 @@
 # Yehiam Knafo 
-*Developer | Spring Boot | Java | React-ts*  
+*Fullstack Developer | Spring Boot | JavaFX | React-JS | ExpressJS | MongoDB*  
 
 ---
 
@@ -56,4 +56,3 @@ ORT Rehovot | *2024 - 2025*
 *"I believe in learning by building—even if it means taking the harder path initially. My JavaFX struggle taught me more than any tutorial could."*  
 
 ---  
-📫 **Contact:** yehiamknafo5757@gmail.com | [GitHub](https://github.com/yehiamtheone) | [LinkedIn](https://linkedin.com/)  
