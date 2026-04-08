@@ -7,9 +7,10 @@
 Passionate developer with almost 2 years of experience building full-stack applications. I thrive on challenging tech stacks (like JavaFX + Express.js) to deepen my understanding of systems. Currently mastering **Spring Boot MVC** and **React** while focusing on writing clean, maintainable code.  
 
 **Key Strengths:**  
+✔ Very consistent
 ✔ Problem-solving with unconventional approaches  
-✔ Fast learner (self-taught Docker/Jenkins in projects)  
 ✔ Ownership mindset (from idea → deployed product)  
+✔ Fast learner (self-taught Docker/Jenkins in projects)  
 
 ---
 
@@ -52,7 +53,7 @@ ORT Rehovot | *2024 - 2025*
 ---
 
 
-## 🌟 Philosophy  
-*"I believe in learning by building—even if it means taking the harder path initially. My JavaFX struggle taught me more than any tutorial could."*  
+<!-- ## 🌟 Philosophy  
+*"I believe in learning by building—even if it means taking the harder path initially. My JavaFX struggle taught me more than any tutorial could."*   -->
 
 ---  
