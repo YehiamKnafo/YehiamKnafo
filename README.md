@@ -9,6 +9,7 @@ Passionate developer with almost 2 years of experience building full-stack appli
 **Key Strengths:**  
 
 ✔ Very consistent   
+✔ Always active  
 ✔ Problem-solving with unconventional approaches  
 ✔ Ownership mindset (from idea → deployed product)  
 ✔ Fast learner (self-taught Docker/Jenkins in projects)  
