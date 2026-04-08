@@ -58,4 +58,3 @@ ORT Rehovot | *2024 - 2025*
 <!-- ## 🌟 Philosophy  
 *"I believe in learning by building—even if it means taking the harder path initially. My JavaFX struggle taught me more than any tutorial could."*   -->
 
----  
