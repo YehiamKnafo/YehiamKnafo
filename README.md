@@ -4,7 +4,7 @@
 ---
 
 ## 📌 About Me  
-Passionate developer with almost 2 years of experience building full-stack applications. I thrive on challenging tech stacks (like JavaFX + Express.js) to deepen my understanding of systems. Currently mastering **Spring Boot MVC** and **React** while focusing on writing clean, maintainable code.  
+Passionate developer with 2 years of experience building full-stack applications. I thrive on challenging tech stacks (like JavaFX + Express.js) to deepen my understanding of systems. Currently mastering **Spring Boot MVC**, **React** and **ExpressJs** while focusing on writing clean, maintainable code.  
 
 **Key Strengths:**  
 
