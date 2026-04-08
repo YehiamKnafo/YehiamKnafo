@@ -7,10 +7,12 @@
 Passionate developer with almost 2 years of experience building full-stack applications. I thrive on challenging tech stacks (like JavaFX + Express.js) to deepen my understanding of systems. Currently mastering **Spring Boot MVC** and **React** while focusing on writing clean, maintainable code.  
 
 **Key Strengths:**  
-✔ Very consistent
+
+✔ Very consistent   
 ✔ Problem-solving with unconventional approaches  
 ✔ Ownership mindset (from idea → deployed product)  
 ✔ Fast learner (self-taught Docker/Jenkins in projects)  
+
 
 ---
 
